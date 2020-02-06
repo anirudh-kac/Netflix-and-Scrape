@@ -15,10 +15,10 @@ horizontal_row_items=soup.find_all("img",class_="nm-collections-title-img")
 
 with open("netflix.csv","w") as file:
     csv_writer = writer(file)
-    csv_writer.writerow(["Title","Id","Year","Duration","Maturity Rating","Genre","Synopsis"])
+    csv_writer.writerow(["Title","Id","Year","Seasons","Maturity Rating","Genre","Synopsis"])
 
     for row_item in horizontal_row_items:
-        
+
             title=row_item["alt"]
             data_id=row_item["data-title-id"]
             #Making request to each title page to get all data
