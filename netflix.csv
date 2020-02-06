@@ -1,15 +1,4 @@
-Title,Id,Year,Duration,Maturity Rating,Genre,Synopsis
-Marvel's Iron Fist,80002612,2017,2,16+ ,TV Shows,"Danny Rand resurfaces 15 years after being presumed dead. Now, with the power of the Iron Fist, he seeks to reclaim his past and fulfill his destiny."
-The Protector,80189829,2018,2,18+ ,TV Shows,"Discovering his ties to a secret ancient order, a young man living in modern Istanbul embarks on a quest to save the city from an immortal enemy."
-Marvel's Daredevil,80018294,2015,3,18+ ,TV Shows,"Blinded as a young boy, Matt Murdock fights injustice by day as a lawyer and by night as the Super Hero Daredevil in Hell's Kitchen, New York City."
-The Umbrella Academy,80186863,2019,1,18+ ,TV Shows,"Reunited by their father's death, estranged siblings with extraordinary powers uncover shocking family secrets -- and a looming threat to humanity."
-Marvel's Jessica Jones,80002311,2015,3,18+ ,TV Shows,"Haunted by a traumatic past, Jessica Jones uses her gifts as a private eye to find her tormentor before he can harm anyone else in Hell's Kitchen."
-Marvel's Luke Cage,80002537,2016,2,18+ ,TV Shows,"A hoodie-wearing, unbreakable ex-con fights to clear his name and save his neighborhood. He wasn't looking for a fight, but the people need a hero."
-Marvel's The Defenders,80002566,2017,1,16+ ,TV Shows,"Daredevil, Jessica Jones, Luke Cage and Iron Fist join forces to take on common enemies as a sinister conspiracy threatens New York City."
-Ultraman,80231373,2019,1,16+ ,Seinen Anime,"Decades ago, a hero from the stars left this world in peace. Now, the son of Ultraman must rise to protect the Earth from a new alien threat."
-The Neighbor,80990609,2019,1,18+ ,TV Shows,Self-centered Javier's life gets a bit messy when he unexpectedly becomes a superhero -- and his recent ex is tasked with uncovering his identity.
-Cyborg 009: Call of Justice,80057749,2017,1,13+ ,TV Shows,"Years after taking up normal lives incognito, the cyborgs are forced to fight again when the superhuman Blessed appear with a plan for humanity."
-Super Drags,80218634,2018,1,18+ ,Brazilian TV Shows,"In this adult animated series, three gay co-workers lead double lives as drag queen superheroes, saving the LGBTQ community from evil nemeses."
+Title,Id,Year,Seasons,Maturity Rating,Genre,Synopsis
 KENGAN ASHURA,80992228,2019,2,18+ ,TV Shows,"Ohma Tokita enters a hidden world where corporate disputes are settled in brutal gladiator bouts. Forget the money, he just wants to fight -- and win."
 BAKI,80204451,2018,2,18+ ,TV Shows,"While martial arts champion Baki Hanma trains hard to surpass his legendary father, five violent death row inmates descend upon Tokyo to take him on."
 ​SAINT SEIYA: Knights of the Zodiac,80186926,2019,2,16+ ,TV Shows,"Seiya and the Knights of the Zodiac rise again to protect the reincarnation of the goddess Athena, but a dark prophecy hangs over them all."
@@ -18,6 +7,7 @@ Kakegurui,80175351,2017,2,16+ ,TV Shows,"High roller Yumeko Jabami plans to clea
 Magi: Adventure of Sinbad,80103331,2016,1,16+ ,TV Shows,The Magi who became High King of the Seven Seas started as a boy determined to make the world a better place. He begins with a dangerous dungeon.
 Violet Evergarden,80182123,2018,1,16+ ,Anime based on Light Novels,"The war is over, and Violet Evergarden needs a job. Scarred and emotionless, she takes a job as a letter writer to understand herself and her past."
 The Disastrous Life of Saiki K.: Reawakened,81054849,2019,1,13+ ,Comedy Anime,"Kusuo and his gaggle of self-proclaimed friends are back for more psychic mishaps. If he didn't have enough problems before, he's got even more now."
+Cagaster of an Insect Cage,80224581,2020,1,18+ ,TV Shows,"Thirty years after a disease that turns the infected into carnivorous insects emerged, a young exterminator and a teenage girl search for her mother."
 Teasing Master Takagi-san,80228274,2018,1,13+ ,Comedy Anime,"Teased constantly by classmate Takagi-san, middle-schooler Nishikata swears payback by trying (and failing) to give her a dose of her own medicine."
 SWORDGAI The Animation,80175350,2018,2,18+ ,TV Shows,"A young man becomes host to a legendary infernal sword and, with the fate of humanity now in his arm, wields its demonic power against his enemies."
 Devilman Crybaby,80174974,2018,1,18+ ,TV Shows,"With demons reawakened and humanity in turmoil, a sensitive demon-boy is led into a brutal, degenerate war against evil by his mysterious friend, Ryo."
@@ -52,86 +42,61 @@ Cyborg 009: Call of Justice,80057749,2017,1,13+ ,TV Shows,"Years after taking up
 DRAGON PILOT: Hisone & Masotan,80241960,2018,1,16+ ,TV Shows,Recently stationed Air Self-Defense Force rookie Hisone Amakasu is chosen by a dragon concealed within Gifu Air Base to be his pilot.
 ID-0,80174918,2017,1,16+ ,TV Shows,"In the midst of a field exercise operating I-Machines, Alliance Academy student Maya Mikuri is thrown into an entirely different kind of adventure."
 Aggretsuko: We Wish You a Metal Christmas,81008536,2018,2,7+ ,Comedy Anime,"While Retsuko desperately makes plans for Christmas Eve, her new obsession with seeking validation through social media spirals out of control."
-Cagaster of an Insect Cage,80224581,2020,1,18+ ,TV Shows,"Thirty years after a disease that turns the infected into carnivorous insects emerged, a young exterminator and a teenage girl search for her mother."
-The End of the F***ing World,80175722,2017,2,18+ ,Award-Winning TV Shows,A budding teen psychopath and a rebel hungry for adventure embark on a star-crossed road trip in this darkly comic series based on a graphic novel.
-Shadowhunters: The Mortal Instruments,80084447,2016,4,18+ ,Award-Winning TV Shows,The life of typical teen Clary Fray is upended when she learns that she's part of a race of demon-hunting humans who have the blood of angels.
-Elite,80200942,2018,2,18+ ,TV Shows,"When three working-class teens enroll in an exclusive private school in Spain, the clash between them and the wealthy students leads to murder."
-Anne with an E,80136311,2017,3,16+ ,Award-Winning TV Shows,"A plucky orphan whose passions run deep finds an unlikely home with a spinster and her soft-spoken bachelor brother. Based on ""Anne of Green Gables."""
-Selection Day,80194558,2018,1,13+ ,TV Shows,Two teen cricket prodigies struggle against their overbearing father and a system stacked against them to realize their own ambitions and identities.
-Love Alarm,80168068,2019,1,16+ ,TV Shows,"In a world where an app alerts people if someone in the vicinity likes them, Kim Jojo experiences young love while coping with personal adversities."
-Insatiable,80179905,2018,2,18+ ,TV Shows,"A bullied teenager turns to beauty pageants as a way to exact her revenge, with the help of a disgraced coach who soon realizes he's in over his head."
-Meteor Garden,81005504,2018,1,16+ ,TV Shows,"Dong Shancai is determined to excel at her dream university, where she encounters an elite clique of dashing, popular high-achievers -- and finds love."
+Dracula,80997687,2020,1,18+ ,Period Pieces,The Count Dracula legend transforms with new tales that flesh out the vampire's gory crimes -- and bring his vulnerability into the light.
+Typewriter,80996338,2019,1,16+ ,TV Shows,"Three young friends in Goa plan to search an old villa for ghosts, but when a new family moves in, the home’s buried past resurfaces in chilling ways."
+"Love, Death & Robots",80174608,2019,1,18+ ,TV Shows,"Terrifying creatures, wicked surprises and dark comedy converge in this NSFW anthology of animated stories presented by Tim Miller and David Fincher."
+V Wars,80236118,2019,1,18+ ,TV Shows,A fast-spreading disease that turns victims into blood-sucking fiends pits two best friends against each other in a fight for humanity's future.
 October Faction,80221644,2020,1,18+ ,TV Shows,"The family drama gets downright monstrous as parents Fred and Deloris hunt the supernatural, and twins Viv and Geoff harbor their own strange secrets."
-Atypical,80117540,2017,3,18+ ,TV Shows,"When a teen on the autism spectrum decides to get a girlfriend, his bid for more independence puts his whole family on a path of self-discovery."
-How to Sell Drugs Online (Fast),80218448,2019,1,18+ ,TV Shows,"To win back his ex-girlfriend, a nerdy teen starts selling ecstasy online out of his bedroom -- and becomes one of Europe's biggest dealers."
-Luna Nera,80244780,2020,1,16+ ,Period Pieces,"In 17th-century Italy, a teenager learns about her destiny among a family of witches, just as her boyfriend's father hunts her down for witchcraft."
+GHOUL,80245450,2018,1,16+ ,TV Shows,"When a new prisoner at a military detention center exhibits eerie behavior, a young interrogator’s search for the truth becomes a battle for survival."
 Daybreak,80197462,2019,1,18+ ,TV Shows,"Living his best life in post-apocalyptic LA, a slacker strives to find the girl of his dreams while outwitting mindless ghouls and cliquish gangs."
-The Rain,80154610,2018,2,18+ ,TV Shows,"Six years after a brutal virus wipes out most of Scandinavia's population, two siblings join a band of young survivors seeking safety -- and answers."
-Baby,80211634,2018,2,18+ ,TV Shows,"Fed up with their families and classmates, two teen girls from a wealthy part of Rome are drawn to the city's underworld and start leading double lives."
-The Society,80197989,2019,1,18+ ,TV Shows,"When everyone else mysteriously vanishes from their wealthy town, the teen residents of West Ham must forge their own society to survive."
+Diablero,80172145,2018,2,18+ ,Mexican TV Shows,"When a young girl goes missing in a big city, a desperate priest joins a demon hunter and his motley crew on an otherworldly mission to find her."
+Castlevania,80095241,2017,2,18+ ,TV Shows,A vampire hunter fights to save a besieged city from an army of otherworldly beasts controlled by Dracula himself. Inspired by the classic video games.
+Black Summer,80198988,2019,1,18+ ,TV Shows,"In the dark, early days of a zombie apocalypse, complete strangers band together to find the strength they need to survive and get back to loved ones."
 The Order,80238357,2019,1,16+ ,TV Shows,"Out to avenge his mother's death, a college student pledges a secret order and lands in a war between werewolves and practitioners of dark magic."
-Jinn,80220816,2019,1,16+ ,TV Shows,"A field trip to Petra causes two jinns -- one good, the other evil -- to enter the human realm, turning high school into a supernatural battleground."
-Teasing Master Takagi-san,80228274,2018,1,13+ ,Comedy Anime,"Teased constantly by classmate Takagi-san, middle-schooler Nishikata swears payback by trying (and failing) to give her a dose of her own medicine."
-Trinkets,80230561,2019,1,18+ ,TV Shows,A grieving teen finds an unexpected connection with two classmates at her new high school after they all land in the same Shoplifters Anonymous group.
-The Stranded,80242491,2019,1,18+ ,TV Shows,"Trapped on an island destroyed by a tsunami, the students of an elite school try to hold on to hope. But mysterious forces seem to work against them."
-Derry Girls,80238565,2018,2,18+ ,TV Shows,"Amidst the political conflict of Northern Ireland in the 1990s, five high school students square off with the universal challenges of being a teenager."
-The Prince of Tennis ~ Match! Tennis Juniors ~,81135440,2019,1,16+ ,TV Shows,A tennis whiz beats the odds to excel on the court while juggling school and inspiring teammates. Based on the hit manga series by Takeshi Konomi.
-The Politician,80241248,2019,1,18+ ,TV Shows,Rich kid Payton has always known he's going to be president. But first he has to navigate the most treacherous political landscape of all: high school.
-Good Morning Call,80092878,2016,2,16+ ,TV Shows,"A high school girl finally gets her own apartment, but she has to share it with the most popular boy in school. No one can know they're living together."
-Scream,80053653,2015,2,18+ ,TV Shows,Memories of a town's dark past are stirred when a group of teenagers is targeted by a masked slasher in this serialized anthology series.
-On My Block,80117809,2018,2,18+ ,TV Shows,"In a rough inner-city Los Angeles neighborhood, four smart, funny and streetwise teens find their lifelong friendship tested as they begin high school."
-Cheer,81039393,2020,1,16+ ,"Reality, Variety & Talk Shows",This gripping docuseries follows the ups and downs of Navarro College's competitive cheer squad as they work to win a coveted national title.
-American Vandal,80117545,2017,2,18+ ,TV Shows,"In the wake of their first documentary's success, Peter and Sam seek a new case and settle on a stomach-churning mystery at a Washington high school."
-Unrequited Love,80993627,2019,1,13+ ,TV Shows,"A complicated, one-sided secret attraction sends ripples through the lives of a mild-mannered student and her dashing classmate."
-The A List,80196382,2018,1,13+ ,TV Shows,"Romance, rivalry and radical mystery collide as a group of teens attend a remote island sleepaway camp in this suspenseful, supernatural drama."
-3%,80074220,2016,3,18+ ,Brazilian TV Shows,"In a future where the elite inhabit an island paradise far from the crowded slums, you get one chance to join the 3% saved from squalor."
-Degrassi: Next Class,80062047,2016,4,18+ ,TV Shows,"Degrassi's next generation of high-tech newbies and returning students navigates real-world high school drama. If you're a teen, this is your life."
-Always a Witch,80205595,2018,1,18+ ,TV Shows,"A young 17th-century witch time travels to the future to save the man she loves, but first must adjust to present-day Cartagena and defeat a dark rival."
-Everything Sucks!,80117551,2018,1,18+ ,TV Shows,"It's 1996 in a town called Boring, where high school misfits in the AV and drama clubs brave the ups and downs of teenage life in the VHS era."
-CAROLE & TUESDAY,80992137,2019,2,18+ ,TV Shows,"Part-timer Carole meets rich girl Tuesday, and each realizes they've found the musical partner they need. Together, they just might make it."
-Switched,80230018,2018,1,18+ ,TV Shows,"High schooler Ayumi's perfect world evaporates when her envious classmate Zenko somehow steals her body, her boyfriend and her life."
-Take My Brother Away,81012978,2018,1,16+ ,TV Shows,"Bickering siblings Shi Miao and Shi Fen tackle friendship matters, school drama and the pitfalls of growing up with little parental supervision."
-Superstition,80176219,2017,1,18+ ,TV Shows,A family with supernatural abilities fights to keep their small Southern town free from sinister spirits and otherworldly possessions.
-Beyond Stranger Things,80197912,2017,1,16+ ,"Reality, Variety & Talk Shows","Secrets from the ""Stranger Things 2"" universe are revealed as cast and guests discuss the latest episodes with host Jim Rash. Caution: spoilers ahead!"
-Chambers,80210361,2019,1,18+ ,TV Shows,"Haunted by eerie visions and sinister impulses after a heart transplant, a teenager tries to unmask the truth behind her donor's mysterious death."
-The Hockey Girls,81000389,2019,1,18+ ,TV Shows,"The passionate members of a girls' roller hockey team chase down victories in the rink while striving to make time for school, family and romance."
-Mortel,80241539,2019,1,18+ ,TV Shows,"After making a deal with a supernatural figure, two high schoolers emerge with extraordinary powers and join forces to solve a murder."
-Between,80022632,2015,2,18+ ,TV Shows,"After a mysterious disease kills every resident over 21 years old, survivors of a town must fend for themselves when the government quarantines them."
-Quicksand,80211703,2019,1,18+ ,TV Shows,"After a tragedy at a school sends shock waves through a wealthy Stockholm suburb, a seemingly well-adjusted teen finds herself on trial for murder."
-Kiss Me First,80097225,2017,1,18+ ,TV Shows,A lonely young woman hooked on a virtual reality game befriends a party girl who leads her into a world of new thrills and dark secrets.
-Mob Psycho 100,80213536,2018,1,16+ ,TV Shows,"There's an organization gathering espers for a nefarious purpose. Powerful psychic Mob, however, is just trying to be the protagonist of his own life."
-Haters Back Off,80095900,2016,2,13+ ,TV Shows,"Determined to make it big, the confident but clueless Miranda Sings embarks on an unlikely quest for fame in this offbeat comedy."
-Sintonia,80217315,2019,1,18+ ,Brazilian TV Shows,"Three teens living in the same São Paulo favela pursue their dreams while maintaining their friendship, amid a world of music, drugs and religion."
-We Are the Wave,80218819,2019,1,18+ ,TV Shows,"A mysterious classmate leads four idealistic teens in a revolt against a rising tide of nationalistic fervor, but their movement takes a dark turn."
-The Innocents,80184405,2018,1,18+ ,TV Shows,Runaway teen lovers June and Harry find themselves swept up in a dangerous and confusing new world when June begins to display mysterious abilities.
-Neo Yokio,80152350,2017,2,18+ ,TV Shows,"Joined by his faithful mecha-butler, Kaz Kaan pursues love, fashion and supernatural forces amid Neo Yokio's sinister high society."
-Re:Mind,80198794,2017,1,18+ ,TV Shows,"Eleven high school classmates awaken, restrained to a large dining room. While fearing for their lives, they question a motive to this bizarre act."
-Chasing Cameron,80116839,2016,1,16+ ,"Reality, Variety & Talk Shows",Go behind the scenes with social media sensation Cameron Dallas as he takes his career to the next level on an international tour.
-The Judgement,80241877,2018,1,18+ ,TV Shows,"After a traumatic incident at a party makes her a target of gossip and derision, a young college student tries to change her school's toxic culture."
-Blazing Transfer Students,80175822,2017,1,16+ ,TV Shows,"Featuring the boys of Johnny's West, a gang of zany transfer students are recruited for a mysterious mission ordained by their shadowy principal."
-On Children,81000509,2018,1,18+ ,TV Shows,"These uncanny tales reveal a world where individuals face the tragic consequences of social pressure, parental oppression and family dysfunction."
-MINDHUNTER,80114855,2017,2,16+ ,TV Shows,In the late 1970s two FBI agents expand criminal science by delving into the psychology of murder and getting uneasily close to all-too-real monsters.
-Bodyguard,80235864,2018,1,18+ ,TV Shows,"After helping thwart a terrorist attack, a war veteran is assigned to protect a politician who was a main proponent of the very conflict he fought in."
-The Haunting of Hill House,80189221,2018,1,18+ ,TV Shows,"Flashing between past and present, a fractured family confronts haunting memories of their old home and the terrifying events that drove them from it."
-The Sinner,80175802,2017,2,18+ ,TV Shows,"When a chilling murder sends shockwaves through a small town, a haunted detective's hunt for answers unravels a web of sinister secrets."
-Manhunt,80176878,2017,1,16+ ,TV Shows,"Faced with few clues and an increasingly panicked public, the FBI calls on a new kind of profiler to help track down the infamous Unabomber."
-The Gift,81037848,2019,1,16+ ,TV Shows,A painter in Istanbul embarks on a personal journey as she unearths universal secrets about an Anatolian archaeological site and its link to her past.
-The Alienist,80149395,2018,1,18+ ,Period Pieces,"In 1896 New York City, psychologist Laszlo Kreizler is enlisted by Police Commissioner Theodore Roosevelt to catch a killer preying on homeless boys."
-High Seas,80233258,2019,2,18+ ,TV Shows,Two sisters discover disturbing family secrets after a string of mysterious deaths occur on a luxury ship traveling from Spain to Brazil in the 1940s.
-Perfume,80200596,2018,1,18+ ,TV Shows,"When a singer is found murdered, with her scent glands excised from her body, detectives probe a group of friends who attended boarding school with her."
-The Order,80238357,2019,1,16+ ,TV Shows,"Out to avenge his mother's death, a college student pledges a secret order and lands in a war between werewolves and practitioners of dark magic."
-The Ghost Bride,80241234,2020,1,16+ ,Period Pieces,"In 1890s Malacca, Li Lan finds herself in the afterlife and becomes mired in a mystery linked to the sinister, deceased son of a wealthy family."
-The OA,80044950,2016,2,18+ ,TV Shows,"Seven years after vanishing from her home, a young woman returns with mysterious new abilities and recruits five strangers for a secret mission."
+Haunted,80195378,2018,2,18+ ,"Reality, Variety & Talk Shows","Real people sit down with friends and family to share terrifying true stories from their past, re-created through chilling re-enactments."
+Santa Clarita Diet,80095815,2017,3,18+ ,TV Shows,They're ordinary husband and wife realtors until she undergoes a dramatic change that sends them down a road of death and destruction. In a good way.
 Glitch,80108495,2015,3,18+ ,Award-Winning TV Shows,A police officer and a doctor face an emotionally charged mystery when seven local residents inexplicably return from the dead in peak physical form.
-Black,80214013,2017,1,18+ ,TV Shows,"A Grim Reaper, a detective and a woman who foresees death get ensnared in matters of life and death -- and dark mysteries of twenty years past."
-Evil Genius: the True Story of America's Most Diabolical Bank Heist,80158319,2018,1,18+ ,Documentaries,This baffling true crime story starts with the grisly death of a pizza man who robs a bank with a bomb around his neck -- and gets weirder from there.
+The Mist,80135414,2017,1,18+ ,TV Shows,"Trapped by a mysterious fog, residents of a Maine village discover that it hides nightmarish creatures. A new series based on Stephen King's novella."
+Marianne,80217779,2019,1,18+ ,TV Shows,"Lured back to her hometown, a famous horror writer discovers that the evil spirit who plagues her dreams is now wreaking havoc in the real world."
+Devilman Crybaby,80174974,2018,1,18+ ,TV Shows,"With demons reawakened and humanity in turmoil, a sensitive demon-boy is led into a brutal, degenerate war against evil by his mysterious friend, Ryo."
 Scream,80053653,2015,2,18+ ,TV Shows,Memories of a town's dark past are stirred when a group of teenagers is targeted by a masked slasher in this serialized anthology series.
-The Indian Detective,80190279,2017,1,16+ ,TV Shows,"In this crime dramedy, a suspended Canadian cop visits his father in Mumbai and assists in investigating a huge criminal operation with links to home."
-Dirk Gently's Holistic Detective Agency,80119426,2016,2,18+ ,TV Shows,"Eccentric amateur sleuth Dirk and his grudging assistant Todd make their way haphazardly through tangled, dangerous supernatural mysteries."
-Black Spot,81079046,2017,2,18+ ,TV Shows,A police chief and an eccentric new prosecutor investigate a string of grisly crimes and eerie phenomena in an isolated town at the edge of a forest.
-The A List,80196382,2018,1,13+ ,TV Shows,"Romance, rivalry and radical mystery collide as a group of teens attend a remote island sleepaway camp in this suspenseful, supernatural drama."
 Slasher,80105452,2017,3,18+ ,Award-Winning TV Shows,Rampaging serial killers leave carnage in their wake as their next victims fight to stay alive in this horror anthology series.
-Criminal: UK,80216172,2019,1,16+ ,TV Shows,"Within the walls of an interrogation room and with time running out, London investigators go after three suspects, each accused of a grievous crime."
-Somewhere Between,80173623,2017,1,16+ ,TV Shows,"A local news producer is given one chance to relive a deadly week and stop a serial killer. If she fails, she'll lose her daughter forever."
-Bloodline,80010655,2015,3,18+ ,TV Shows,"When the black sheep son of a respected family threatens to expose dark secrets from their past, sibling loyalties are put to the test."
-The Frankenstein Chronicles,80161335,2015,2,18+ ,Period Pieces,"A detective tracks what seems to be a killer with a taste for dismemberment in 1827 London, but the case leads in a far more terrifying direction."
+Ares,80995039,2020,1,18+ ,TV Shows,"Aiming to become part of Amsterdam's elite, an ambitious college student joins an exclusive society, unaware it's hiding a horrifying secret."
+Prank Encounters,81017316,2019,1,16+ ,"Reality, Variety & Talk Shows",Monstrous frights meet hilarious reveals on this hidden-camera prank show as real people become the stars of their own full-blown horror movie.
+Ghost Wars,80190931,2017,1,18+ ,TV Shows,Local outcast Roman Mercer must harness his repressed psychic powers to save his remote Alaskan town from paranormal forces.
+Nightflyers,80202133,2018,1,18+ ,TV Shows,"With humankind's future at stake, a group of scientists and a powerful telepath venture into the void aboard a spaceship full of secrets."
+Hemlock Grove,70242310,2013,3,18+ ,TV Shows,"Secrets are just a part of daily life in the small Pennsylvania town of Hemlock Grove, where the darkest evils hide in plain sight."
+From Dusk Till Dawn,70304245,2014,3,18+ ,TV Shows,Bank-robbing brothers encounter vengeful lawmen and hungry demons south of the border in this original horror series.
+Superstition,80176219,2017,1,18+ ,TV Shows,A family with supernatural abilities fights to keep their small Southern town free from sinister spirits and otherworldly possessions.
+Immortals,81026095,2018,1,18+ ,TV Shows,"Driven by revenge, human-turned-vampire Mia sets out to vanquish Dmitry, a ruthless vampire leader who seeks an artifact that grants immortality."
+Chambers,80210361,2019,1,18+ ,TV Shows,"Haunted by eerie visions and sinister impulses after a heart transplant, a teenager tries to unmask the truth behind her donor's mysterious death."
+Kabaneri of the Iron Fortress: The Battle of Unato,81095103,2019,1,18+ ,TV Shows,"Ikoma and the Iron Fortress take their fight to the battlegrounds of Unato, joining the alliance to reclaim the region from the kabane horde."
+Until Dawn,81074060,2020,1,16+ ,"Reality, Variety & Talk Shows",France’s funniest comics carry out ghastly tasks as they try to outlast -- and outwit -- one another while overnighting in haunted locations.
+Crazyhead,80104983,2016,1,18+ ,TV Shows,Bowling alley worker Amy and nonconformist Raquel kick some serious demon butt while also facing their inner demons as they navigate their early 20s.
+To All the Boys I’ve Loved Before,80203147,2018,1,13+ ,Hollywood Movies,"When her secret love letters somehow get mailed to each of her five crushes, Lara Jean finds her quiet high school existence turned upside down."
+The Kissing Booth,80143556,2018,1,16+ ,Hollywood Movies,"When teenager Elle's first kiss leads to a forbidden romance with the hottest boy in high school, she risks her relationship with her best friend."
+House Arrest,81076114,2019,1,18+ ,Bollywood Movies,A world-weary man’s self-imposed home confinement becomes a comedy of errors with the simultaneous arrivals of a peculiar package and a curious journalist.
+The Perfect Date,81019888,2019,1,16+ ,Hollywood Movies,"To earn money for college, a high schooler launches an app offering his services as a fake date. But when real feelings emerge, things get complicated."
+Murder Mystery,80242619,2019,1,16+ ,Wacky Comedies,"On a long-awaited trip to Europe, a New York City cop and his hairdresser wife scramble to solve a baffling murder aboard a billionaire's yacht."
+Tall Girl,81002412,2019,1,7+ ,Hollywood Movies,"After years of slouching through life, 6-foot-1 teen Jodi resolves to conquer her insecurities and gets caught up in a high school love triangle."
+"Oh, Ramona!",81092909,2019,1,16+ ,Wacky Comedies,Awkward 16-year-old Andrei is infatuated with his alluring but aloof schoolmate Ramona -- until he meets stunning hotel clerk Anemona while on vacation.
+Vir Das: Losing It,80995991,2018,1,16+ ,Stand-Up Comedy,"The world's got a lot of problems, but Vir Das has a lot of answers as he discusses travel, religion, his childhood and more in this stand-up special."
+Love Per Square Foot,80227304,2018,2,13+ ,Bollywood Movies,"Individually, bank employees Sanjay and Karina don't earn enough to be able to buy a home, so they decide to enter into a marriage of convenience."
+Airplane Mode,81056195,2020,1,7+ ,Romantic Comedies,"When Ana, an influencer, crashes her car while talking on the phone, she’s shipped to her grumpy grandfather's farm -- and forced into a digital detox."
+Falling Inn Love,80999781,2019,1,7+ ,Romantic Comedies,"When a San Francisco exec wins a New Zealand inn, she ditches city life to remodel and flip the rustic property with help from a handsome contractor."
+Chopsticks,80993095,2019,1,13+ ,Bollywood Movies,A gifted but insecure woman embarks on a transformative journey when she enlists an enigmatic con man to recover her stolen car from an eccentric thug.
+Vir Das: Abroad Understanding,80133552,2017,1,16+ ,Stand-Up Comedy,"Comedian Vir Das tackles nationalism, globalism, good food and bad politics in two cleverly crosscut performances in New York and New Delhi."
+The Last Summer,80999729,2019,1,18+ ,Hollywood Movies,"Teens from a Chicago high school grapple with their dreams, relationships and identities in a transformative summer before they leave for college."
+Rajma Chawal,81018377,2018,1,16+ ,Bollywood Movies,"Hoping to revive his relationship with his resentful millennial son, an internet-rookie widower assumes the online persona of a young woman."
+Shaft,80232655,2019,1,18+ ,Hollywood Movies,"When the son he doesn't know comes to him for help, badass private eye John Shaft discovers his offspring is anything but a chip off the old block."
+Let It Snow,80201542,2019,1,16+ ,Hollywood Movies,"A snowstorm hits a small town on a cold Christmas Eve, affecting the friendships, love lives and futures of several high school seniors."
+The Babysitter,80164456,2017,1,18+ ,Hollywood Movies,"When Cole stays up past his bedtime, he discovers that his hot babysitter is part of a satanic cult that will stop at nothing to keep him quiet."
+Set It Up,80184100,2018,1,18+ ,Hollywood Movies,"In desperate need of a break from the office, two beleaguered assistants team up to trick their workaholic bosses into falling in love."
+Sierra Burgess Is a Loser,80239639,2018,1,16+ ,Hollywood Movies,A wrong-number text sparks a virtual romance between a smart but unpopular teen and a sweet jock who thinks he's talking to a gorgeous cheerleader.
+The Package,80175147,2018,1,18+ ,Wacky Comedies,"After their buddy suffers an unfortunate accident during spring break, four pals risk everything -- including their dignity -- to make him whole again."
+The Christmas Chronicles,80199682,2018,1,7+ ,Hollywood Movies,"After accidentally crashing Santa's sleigh, a brother and sister pull an all-nighter to save Christmas with a savvy, straight-talking St. Nick."
+Someone Great,80202920,2019,1,18+ ,Romantic Comedies,"On the heels of a blindsiding breakup, music journalist Jenny braces for a new beginning -- and one last adventure with her closest friends."
+The Knight Before Christmas,81026188,2019,1,13+ ,Comedies,"Medieval magic sends a 14th-century knight to modern-day Ohio, where he falls for a high school science teacher who's disillusioned by love."
+#realityhigh,80125979,2017,1,18+ ,Hollywood Movies,"When nerdy high schooler Dani finally attracts the interest of her longtime crush, she lands in the cross hairs of his ex, a social media celebrity."
+Isn't It Romantic,80200642,2019,1,16+ ,Hollywood Movies,"After hitting her head, an architect who hates romantic comedies wakes up to find her unremarkable life has become a dazzling, cliché-driven rom-com."
+The Laundromat,80994011,2019,1,18+ ,Dramas Based on Books,"When a widow gets swindled out of insurance money, her search for answers leads to two cunning lawyers in Panama who hide cash for the superrich."
