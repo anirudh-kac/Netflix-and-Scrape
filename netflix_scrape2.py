@@ -3,17 +3,22 @@
 import requests
 from bs4 import BeautifulSoup
 from csv import writer
+
 base_url ="https://www.netflix.com/in/browse/genre/839338"
 title_url = "https://www.netflix.com/in/title/80211648"
+
 nf = requests.get(base_url)
 #print(nf.text)
 soup = BeautifulSoup(nf.text,"html.parser")
 #Find all horizontal title cards
 horizontal_row_items=soup.find_all("img",class_="nm-collections-title-img")
+
 with open("netflix.csv","w") as file:
     csv_writer = writer(file)
     csv_writer.writerow(["Title","Id","Year","Duration","Maturity Rating","Genre","Synopsis"])
+
     for row_item in horizontal_row_items:
+        
             title=row_item["alt"]
             data_id=row_item["data-title-id"]
             #Making request to each title page to get all data
